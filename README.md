@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Thanks to FontAwesome for the icons, used with Creative Commons License: https://fontawesome.com/license
+
 ## Available Scripts
 
 In the project directory, you can run:
